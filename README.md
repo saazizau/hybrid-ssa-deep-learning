@@ -41,8 +41,8 @@ YYYY-MM-DD, MW, MW, MW, ..., Mw
 ## 📊 Notebook Eksperimen
 1. `1_preprocessing_data.ipynb`
 2. `2_exploratory_data_analysis.ipynb`
-3. `3_modeling_deep_learning.ipynb`
-4. `4_singular_spectrum_analysis.ipynb`
+4. `3_singular_spectrum_analysis.ipynb`
+3. `4_modeling_deep_learning.ipynb`
 5. `5_modelling_hybrid_ssa_deep_learning.ipynb`
 6. `6_evaluate_models.ipynb`
 7. `7_forecasting.ipynb`
