@@ -4,5 +4,7 @@ data/processed/(K1 - Pembersihan nilai kosong & duplikat) Beban listrik.csv
 data/processed/(K2 - Transformasi per setengah jam) Beban listrik.csv
 data/processed/(K3 - Transformasi per jam) Beban listrik.csv
 
+hasil/ssa/data
+
 temp/
 notebooks/main.ipynb
