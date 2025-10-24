@@ -12,10 +12,18 @@ Hybrid_SSA_Deep_Learning/
 ├── data/
 │ ├── raw/              # Data mentah (2016-2020)
 │ └── processed/        # Data yang sudah dibersihkan & di-scaling
-│
-├── notebooks/          # Notebook eksperimen & visualisasi
-│
 ├── hasil/              # Hasil prediksi, plot, dan metric
+│ ├── eda/             
+│ ├── pemodelan/       
+│ └── ssa/        
+├── notebooks/          # Notebook eksperimen & visualisasi
+│ ├── 1_preprocessing_data.ipynb
+│ ├── 2_exploratory_data_analysis.ipynb
+│ ├── 3_singular_spectrum_analysis.ipynb
+│ ├── 4_modeling_deep_learning.ipynb
+│ ├── 5_modelling_hybrid_ssa_deep_learning.ipynb
+│ ├── 6_evaluate_models.ipynb
+│ └── 7_forcasting.ipynb
 │
 ├── requirements.txt    # Dependencies
 └── thesis.pdf          # Skripsi final
